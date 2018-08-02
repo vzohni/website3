@@ -44,7 +44,7 @@ address:
   - line: Beverly Hills, CA 90210
 
 # Credits content
-credits: 'Email: victorzohni@gmail.com'
+contact: 'Email: victorzohni@gmail.com'
 
 # Build settings
 markdown: kramdown
