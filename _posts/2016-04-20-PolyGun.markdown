@@ -1,0 +1,14 @@
+---
+layout: default
+modal-id: 4
+date: 2016-04-20
+img: polygun_small.png
+alt: image-alt
+project-date: April 1, 2016
+author: Poly Ranger Games (led by Victor Zohni)
+tagged: Video Game, Android, Team Management,
+
+description: PolyGun is a psychedelic bullet-hell game where you take the shape of a polygonal plane that travels through a space full of eccentric polygon shaped enemies. Each enemy type has a unique look, movement and attacks! I started the team Poly Ranger Games in July 2015, with the idea of making a video game from start to finish for the duration of the summer. I learned that the game design process is much more time consuming than I thought, but I’m grateful for the experience. Made with Unity with C# scripting. PolyGun is currenty available on the Google play store, coming soon to Apple iOS. </br></br><a href=" https://play.google.com/store/apps/details?id=com.polyrangers.polygun&hl=en"> Download on Google Play</a>
+
+
+---
