@@ -109,6 +109,7 @@ header .intro-text .skills {
     font-weight: 300;
 }
 
+/*   768px*/
 @media(min-width:768px) {
     header .container {
         padding-top: 200px;
@@ -185,7 +186,7 @@ section.success {
     background: #{{ site.color.primary }};
 }
 
-@media(max-width:767px) {
+@media(max-width:1920px) {
     section {
         padding: 75px 0;
     }
@@ -273,7 +274,7 @@ section.success {
 
 
 
-@media(min-width:767px) {
+@media(min-width:769px) {
     #portfolio .portfolio-item {
         margin: 0 0 30px;
     }
