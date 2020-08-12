@@ -2,9 +2,9 @@
 title: Victor Zohni
 email: victorzohni@gmail.com
 url: https://example.github.io
-description: "A website for programmer Victor Zohni!"
+description: "A website for software developer Victor Zohni!"
 keywords: "Hip, Fresh, Cool, Art, Tech"
-skills: "Creative Developer"
+skills: "Software Developer"
 meta_author: Zohni Victor
 baseurl: ""
 
@@ -32,9 +32,7 @@ footer:
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
-social:
-  - title: linkedin
-    url: https://www.linkedin.com/in/victor-zohni-b443a1a8/  
+social:      
   - title: github
     url: https://github.com/vzohni
 
